@@ -1,4 +1,5 @@
-## 💫 Project: Assesment of Genie-Infotech <img align="right" alt="Coding" width="200" src="https://media-exp1.licdn.com/dms/image/C560BAQF01iw7DlFM9w/company-logo_200_200/0/1644908782334?e=2147483647&v=beta&t=NPcQGkAFxWU3xiWmGf0jpK46OApu_YwgOIPPRrGB4D0"><br>
+### Assesment of Genie-Infotech 
+<img align="middle" alt="Coding" width="200" src="https://media-exp1.licdn.com/dms/image/C560BAQF01iw7DlFM9w/company-logo_200_200/0/1644908782334?e=2147483647&v=beta&t=NPcQGkAFxWU3xiWmGf0jpK46OApu_YwgOIPPRrGB4D0"><br>
 
 
 
